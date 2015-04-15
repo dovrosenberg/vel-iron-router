@@ -1,0 +1,6 @@
+autopublish
+insecure
+meteor-platform
+iron:router
+sanjo:jasmine
+mike:mocha
